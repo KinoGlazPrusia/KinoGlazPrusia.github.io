@@ -1,4 +1,4 @@
-import { PlainComponent } from '../../../node_modules/plain-reactive/src/index.js';
+import { PlainComponent } from '../../../vendor/plain-reactive/src/index.js';
 
 class pButton extends PlainComponent {
     constructor() {
